@@ -1,3 +1,0 @@
-Hello 
-Lệnh add "<teenffile>" : để commit file đó sau khi có thay đổi 
-Lệnh add . : để commit tất cả các file trong thư mục đó 
